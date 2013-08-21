@@ -72,3 +72,10 @@ Utlimately, each article would have a QRcode, when I scan it with my phone, I wo
 
 Imagine an application, that detects the category of the video, and the lenght, so you can turn on your media center and ask 10minutes of inspiring video from your watch it later list! (or from your friend feed if your watch it later is empty)
 (Inspired by ted system)
+
+# Licence
+
+"THE BEER-WARE LICENSE" (Revision 42):
+<phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you
+can do whatever you want with this stuff. If we meet some day, and you think
+this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
