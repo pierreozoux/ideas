@@ -76,6 +76,7 @@ Imagine an application, that detects the category of the video, and the lenght, 
 # Licence
 
 "THE BEER-WARE LICENSE" (Revision 42):
-<phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you
+[Pierre Ozoux](mailto:pierre.ozoux@gmail.com) wrote this file. As long as you retain this notice you
 can do whatever you want with this stuff. If we meet some day, and you think
-this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+this stuff is worth it, you can buy me a beer in return
+Pierre Ozoux
