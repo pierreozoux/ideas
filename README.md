@@ -11,7 +11,8 @@ Ideas of services that would facilitate my life, if I have time, one day, I'll d
 * My recipes : open source my cooking recipe
 * SAUGCDN : Social Aware User Generated Content Distribution Network, an attempt to solve the challenge of p2p social network. A federation of RasPi running proxies for social/private content with builtin backup of data/service. Providing Social Network as a basic Infrastructure. Read this article : ["I believe that future social platforms will behave more like infrastructure"](http://daltoncaldwell.com/dear-mark-zuckerberg) ESCAPE THE CLOUD!
 * MailChess: work on a static html/javascript page served by GitHub to play chess by mail (with ChessJS)
-* Add/setup hooks with HabitRPG (Pivotal/GitHub/StackExchange/DuoLingo/Quora)
+* Add/setup hooks with HabitRPG with huggin (Pivotal/GitHub/StackExchange/DuoLingo/Quora)
+* Live fact checking (business model, sell API to Info Stream medias)
 
 ## Information Management
 
