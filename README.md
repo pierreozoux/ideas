@@ -13,6 +13,7 @@ Ideas of services that would facilitate my life, if I have time, one day, I'll d
 * MailChess: work on a static html/javascript page served by GitHub to play chess by mail (with ChessJS)
 * Add/setup hooks with HabitRPG with huggin (Pivotal/GitHub/StackExchange/DuoLingo/Quora)
 * Live fact checking (business model, sell API to Info Stream medias)
+* Mobile app to avoid evil twin attack (checks your wifi ssid against your GPS location) [like here](http://thehackernews.com/2014/03/snoopy-drone-can-hack-your-smartphones.html)
 
 ## Information Management
 
