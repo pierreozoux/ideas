@@ -14,6 +14,7 @@ Ideas of services that would facilitate my life, if I have time, one day, I'll d
 * Add/setup hooks with HabitRPG with huggin (Pivotal/GitHub/StackExchange/DuoLingo/Quora)
 * Live fact checking (business model, sell API to Info Stream medias)
 * Mobile app to avoid evil twin attack (checks your wifi ssid against your GPS location) [like here](http://thehackernews.com/2014/03/snoopy-drone-can-hack-your-smartphones.html)
+* Comment app for static sites by email,  put a link to email under your blog post, receive an email, and digest it from jmap in browser
 
 ## Information Management
 
